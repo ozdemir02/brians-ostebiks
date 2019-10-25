@@ -1,0 +1,27 @@
+table {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    tr {
+        margin: 0;
+        padding: 0;
+        td {
+            margin: 0;
+            padding: 0;   
+            font-weight: bold;
+        }
+    }
+}
+
+.price {
+    font-weight: normal;
+}
+
+.weight {
+    font-weight: normal;
+}
+
+.country {
+    font-weight: normal;
+}
